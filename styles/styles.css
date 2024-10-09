@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+li a {
+    text-decoration: none;
+    color: white;
+}

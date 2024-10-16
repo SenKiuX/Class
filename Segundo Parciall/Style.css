@@ -1,0 +1,144 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-color: #f8b400;
+    background-color: #c92533;
+    margin: 0;
+    padding: 20px; 
+    padding: 20px;
+    
+}
+.container {
+    max-width: 500px;
+    margin: auto;
+    background: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 3%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    align-self: auto;
+}
+h1, h2 {
+    text-align: center;
+}
+label {
+    margin-top: 10px;
+    display: block;
+    padding: 3px;
+    width: 100%;
+}
+input[type="text"], input[type="password"] {
+    width: 95%;
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+input[type="radio"] {
+    margin-right: 10px;
+}
+.checkbox {
+    margin: 10px 0;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+    background: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 3%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    align-self: auto;
+
+button {
+    background-color: #b81c24;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 100%;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+label {
+    margin-top: 10px;
+    display: block;
+    padding: 3px;
+    width: 100%;
+}
+
+input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+.checkbox {
+    margin: 10px 0;
+}
+
+select,
+textarea {
+    width: 95%;
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+button {
+    background-color: #b81c24;
+    background-color: #db1212;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 95%;
+    width: 100%;
+}
+
+.checkbox {
+    margin: 10px 0;
+button:hover {
+    background-color: #218838;
+}
+
+button {
+    background-color: #f8b400;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 100%;
+}
+
+select,
+textarea {
+    width: 95%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+button:hover {
+    background-color: #218838;
+}
+}}}
